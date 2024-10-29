@@ -1,0 +1,29 @@
+* {
+    background-color: #1b1a1f;
+    color: #deded6;
+    margin: 2%;
+    display: block;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#pg_title {
+    display: block;
+}
+
+.title {
+    color: #deded6;
+    text-align: center;
+}
+
+.button{
+    width: 255px;
+    height: 70px;
+    background-color: #deded6;
+    font-weight: bold;
+    color: black;
+    margin: auto;
+}
+
+li::marker {
+    color: #deded6;
+}
